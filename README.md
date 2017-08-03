@@ -1,5 +1,7 @@
 # CarrinhoArduinoIC
-O codigo está no arquivo .ino, ele foi feito para trabalhar apenas com 1 sensor de ótico e 1 sensor de distancia
-# Funções
+O codigo estÃ¡ no arquivo .ino, ele foi feito para trabalhar apenas com 1 sensor de Ã³tico e 1 sensor de distancia
+# FunÃ§Ãµes
 Seguir a linha demarcada feita com fita preta
+
+
 Desviar de objetos postos a frente e voltar para o caminho
